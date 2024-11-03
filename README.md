@@ -1,3 +1,3 @@
 # odin-landing-page
 Landing page for TOP
-Pepperoni pizza image: Photo by Vincent Rivaud: https://www.pexels.com/photo/top-view-photo-of-baked-pizza-2147491/
+Pepperoni pizza photo by Victor Miyata: https://www.pexels.com/photo/pizza-on-brown-wooden-table-3682837/ 
