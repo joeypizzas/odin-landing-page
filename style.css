@@ -1,5 +1,7 @@
-body {
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
+body {
+font-family: 'Roboto', sans-serif;
 }
 
 .section1 {
@@ -7,13 +9,25 @@ body {
 }
 
 .header {
+display: flex;
+justify-content: space-between;
+}
 
+.headerlinks {
+display: flex;
 }
 
 .section1body {
-
+display: flex;
 }
 
 .section1bodytext {
+display: flex;
+flex-direction: column;
+}
 
+.pepperonipizzaimage {
+    width: 100%;
+    height: auto;
+    max-width: 300px;
 }
