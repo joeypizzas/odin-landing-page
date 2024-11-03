@@ -73,19 +73,17 @@ button {
 
 }
 
-.section2partone {
-
+.section2body {
+    display: flex;
 }
 
-.section2parttwo {
-
+.section2partone, .section2parttwo, .section2partthree, .section2partfour {
+    display: flex;
+    flex-direction: column;
 }
 
-.section2partthree {
-
-
-}
-
-.section2partfour {
-
+.twopepperonipizza, .ovenbigflame, .veggiepizza, .pizzaoven {
+    width: 100%;
+    height: 100px;
+    max-width: 100px;
 }
