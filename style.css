@@ -13,6 +13,10 @@ display: flex;
 justify-content: space-between;
 }
 
+.headerlogo {
+    font-size: 24px;
+}
+
 .headerlinks {
 display: flex;
 }
@@ -24,6 +28,24 @@ display: flex;
 .section1bodytext {
 display: flex;
 flex-direction: column;
+}
+
+.hero {
+font-size: 48px;
+font-weight: 900;
+}
+
+.herosecondary, .headerlinks {
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.headerlogo, .hero, button {
+    color: #F9FAF8;
+}
+
+button {
+    background-color: #3882F6;
 }
 
 .pepperonipizzaimage {
