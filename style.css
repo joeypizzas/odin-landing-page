@@ -70,11 +70,13 @@ text-align: center;
 color: #1F2937;
 font-size: 36px;
 font-weight: 900;
+padding: 40px 0px;
 }
 
 .section2body {
     display: flex;
     justify-content: center;
+    gap: 40px;
 }
 
 .section2parts {
@@ -85,11 +87,11 @@ font-weight: 900;
 }
 
 .section2images {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
 }
 
 .section2text {
-    width: 100px;
+    width: 150px;
     text-align: center;
 }
