@@ -65,25 +65,31 @@ button {
     max-width: 350px;
 }
 
-.section2 {
-
-}
-
 .section2header {
-
+text-align: center;
+color: #1F2937;
+font-size: 36px;
+font-weight: 900;
 }
 
 .section2body {
     display: flex;
+    justify-content: center;
 }
 
-.section2partone, .section2parttwo, .section2partthree, .section2partfour {
+.section2parts {
     display: flex;
     flex-direction: column;
+    color: #1F2937;
+    align-items: center;
 }
 
-.twopepperonipizza, .ovenbigflame, .veggiepizza, .pizzaoven {
-    width: 100%;
+.section2images {
+    width: 100px;
     height: 100px;
-    max-width: 100px;
+}
+
+.section2text {
+    width: 100px;
+    text-align: center;
 }
