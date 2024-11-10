@@ -158,9 +158,11 @@ padding: 40px 0px;
 }
 
 .footer {
-
+    background-color: #1F2937;
+    padding: 25px 0px;
 }
 
 .footertext{
-
+    color: #F9FAF8;
+    text-align: center;
 }
